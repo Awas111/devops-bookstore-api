@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.circleci",
     "\\tests"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\.circleci\\config.yml",
   "PreviewInSolutionExplorer": false
 }
